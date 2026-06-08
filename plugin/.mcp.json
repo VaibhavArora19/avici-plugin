@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "avici": {
+      "type": "http",
+      "url": "https://avici-mcp-js-production.up.railway.app/mcp"
+    }
+  }
+}

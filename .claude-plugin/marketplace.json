@@ -1,0 +1,15 @@
+{
+  "name": "avici-official",
+  "owner": {
+    "name": "Avici",
+    "url": "https://github.com/VaibhavArora19/avici-plugin"
+  },
+  "plugins": [
+    {
+      "name": "avici",
+      "source": "./plugin",
+      "description": "Talk to your avici account in Claude — wallets, cards, balances, and activity (read-only). Signs in with OAuth (email + OTP).",
+      "version": "0.1.0"
+    }
+  ]
+}
