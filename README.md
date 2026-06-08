@@ -12,7 +12,8 @@ claude plugin install avici@avici-official
 
 Then run `/mcp` → **avici** → **Authenticate** → log in with your email + the OTP.
 
-You also get two slash commands: `/balance` and `/activity`.
+You also get slash commands (Claude Code): `/balance`, `/activity`, `/cards`,
+`/wallets`, `/refunds`, `/spending`, and `/reveal` (reveal is Claude Code only).
 
 ## What's inside
 
